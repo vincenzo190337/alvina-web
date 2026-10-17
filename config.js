@@ -41,12 +41,11 @@ const CONFIG = {
 
   /* ---------- কুর্তির ডিজাইন (একটা লাইন যোগ করলেই নতুন কার্ড আসবে) ---------- */
   products: [
-    { id: "k1", name: "কুর্তি ডিজাইন ১", image: "images/kurti-1.jpg" },
-    { id: "k2", name: "কুর্তি ডিজাইন ২", image: "images/kurti-2.jpg" },
-    { id: "k3", name: "কুর্তি ডিজাইন ৩", image: "images/kurti-3.jpg" },
-    { id: "k4", name: "কুর্তি ডিজাইন ৪", image: "images/kurti-4.jpg" }
-  ],
+    { id: "k1", name: "Sage Serenity.jpg", image: "images/kurti-1.jpg" },
+    { id: "k2", name: "Mauve Blossom.jpg", image: "images/kurti-2.jpg" },
+    { id: "k3", name: "Azure Vine.jpg", image: "images/kurti-3.jpg" },
 
+     
   /* ---------- (ঐচ্ছিক) অর্ডার Google Sheet-এ জমা: Apps Script Web App URL ---------- */
   orderWebhook: "",
 
